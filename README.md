@@ -1,4 +1,7 @@
-### Hi there 👋
+Esta página HTML foi criada para o meu personagem codinome B1naryo.
+O codenome B1naryo foi inspirado em uma lembrança marcante da época da faculdade. Certa vez, um colega de origem japonesa e brasileira contou uma piada em sala de aula: "Se antigamente não havia compilador, como eles compilavam os programas?". Embora a piada tenha arrancado risos da turma, o que realmente me marcou foi o fato de que ele ainda não entendia muito sobre a lógica por trás dos números binários e do código de máquina. Foi a partir desse momento que comecei a me interessar pelo assunto e decidi adotar o codinome B1naryo em homenagem a essa história engraçada e ao fascínio que sinto pelo mundo dos binários. Espero que vocês também se divirtam e aprendam com as aventuras do nosso personagem B1naryo.
+
+
 
 <!--
 **B1naryo/B1naryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
