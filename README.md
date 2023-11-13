@@ -1,5 +1,7 @@
 Esta página HTML foi criada para o meu personagem codinome B1naryo.
 O codenome B1naryo foi inspirado em uma lembrança marcante da época da faculdade.
+This HTML page was created for my character codenamed B1naryo.
+The codename B1naryo was inspired by a memorable experience from my college days.
 
 
 <!--
